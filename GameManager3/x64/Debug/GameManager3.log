@@ -1,0 +1,14 @@
+﻿  AttackItem.cpp
+  BattleSystem.cpp
+  BossMonster.cpp
+  Character.cpp
+C:\Git\BaldMonster\BossMonster.cpp(6,12): warning C4566: 유니버설 문자 이름 '\u2014'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+  GameManager.cpp
+  HealingItem.cpp
+  item.cpp
+  main.cpp
+  MonsterBase.cpp
+  UObjectBase.cpp
+  YellowMonster.cpp
+  코드를 생성하고 있습니다...
+  GameManager3.vcxproj -> C:\Visual Studio 2022\GameManager3\x64\Debug\GameManager3.exe
